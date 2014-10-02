@@ -1,0 +1,18 @@
+{
+  "name": "dns-debug",
+  "version": "0.1.0",
+  "description": "Monkey-patch for dns to enable some logging when NODE_DEBUG=dns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Unkovsky <oil.crayons@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diunko/nodejs-dns-debug"
+  },
+  "engines": {
+    "node": "0.8.x 0.10.x 0.11.x"
+  },
+  "license": "ISC"
+}
